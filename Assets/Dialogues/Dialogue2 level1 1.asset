@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9f8b0a59f7a33b4f981f9d19ad45c4c, type: 3}
+  m_Name: Dialogue2 level1 1
+  m_EditorClassIdentifier: 
+  dialogues:
+  - speaker: 1
+    text: Why try so hard, little crow?
+  - speaker: 1
+    text: Some birds are just not made for this
+  - speaker: 0
+    text: "Even if you don\u2019t appreciate me now, I believe you will, eventually"
+  - speaker: 1
+    text: "It\u2019s nothing against you personally"
+  - speaker: 1
+    text: "It\u2019s just that crows\u2026"
+  - speaker: 1
+    text: Have a reputation
+  - speaker: 0
+    text: I can prove myself
+  - speaker: 1
+    text: Oh, you really want to prove yourself, crow?
+  - speaker: 1
+    text: How about you go to the city?
+  - speaker: 1
+    text: Go and snatch one of their hats
+  - speaker: 1
+    text: Yeah, a human hat would suit you!
+  - speaker: 0
+    text: "I\u2019m not afraid of the city"
+  - speaker: 0
+    text: "I\u2019ll show you I can do this"

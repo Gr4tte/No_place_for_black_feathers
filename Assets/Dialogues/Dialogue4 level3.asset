@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9f8b0a59f7a33b4f981f9d19ad45c4c, type: 3}
+  m_Name: Dialogue4 level3
+  m_EditorClassIdentifier: 
+  dialogues:
+  - speaker: 0
+    text: A hat
+  - speaker: 0
+    text: I thought this was what I wanted
+  - speaker: 0
+    text: I thought if I reached their heights
+  - speaker: 0
+    text: "I\u2019d feel complete"
+  - speaker: 0
+    text: I chased their approval
+  - speaker: 0
+    text: their way of flying
+  - speaker: 0
+    text: but in doing that
+  - speaker: 0
+    text: have I lost myself?

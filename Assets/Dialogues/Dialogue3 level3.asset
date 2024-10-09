@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9f8b0a59f7a33b4f981f9d19ad45c4c, type: 3}
+  m_Name: Dialogue3 level3
+  m_EditorClassIdentifier: 
+  dialogues:
+  - speaker: 0
+    text: I did it!
+  - speaker: 0
+    text: I felt the wind lift me
+  - speaker: 0
+    text: like it did for the doves
+  - speaker: 0
+    text: I flew with them
+  - speaker: 0
+    text: not below
+  - speaker: 0
+    text: not behind
+  - speaker: 0
+    text: but...
+  - speaker: 0
+    text: "they didn\u2019t see me"
+  - speaker: 0
+    text: They never did

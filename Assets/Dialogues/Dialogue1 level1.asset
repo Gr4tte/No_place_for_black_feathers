@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9f8b0a59f7a33b4f981f9d19ad45c4c, type: 3}
+  m_Name: Dialogue1 level1
+  m_EditorClassIdentifier: 
+  dialogues:
+  - speaker: 0
+    text: "I\u2019ve been watching from the window all this time, wishing I could
+      fly beside you"
+  - speaker: 0
+    text: Waiting to be free, like you
+  - speaker: 0
+    text: "I\u2019m ready to join you now!"
+  - speaker: 1
+    text: Look at you
+  - speaker: 1
+    text: Black feathers, dark as night
+  - speaker: 0
+    text: "My feathers don\u2019t change my heart!"
+  - speaker: 1
+    text: "You don\u2019t belong with us"
+  - speaker: 1
+    text: "Perhaps you should\u2019ve stayed with that human"
+  - speaker: 0
+    text: "They helped me, but I\u2019m a bird, not a pet"
+  - speaker: 0
+    text: I need to be with my own kind. I can be like you!
+  - speaker: 1
+    text: "Wings don\u2019t make you one of us, crow"

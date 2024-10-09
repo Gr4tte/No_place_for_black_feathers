@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a299da9a1a16dd14f988db07bdb2d84c, type: 3}
+  m_Name: level 4 end cutscene
+  m_EditorClassIdentifier: 
+  sceneToLoad: 1
+  images:
+  - {fileID: 21300000, guid: a4473a3fa8eb5384798477ed8a1f2d55, type: 3}
+  - {fileID: 21300000, guid: 2d0805c5f100a184596133721d580cc2, type: 3}
+  - {fileID: 21300000, guid: 18dec5083d7e3cf4fb0ef61ae072e3c5, type: 3}
+  - {fileID: 21300000, guid: 12a68365a958df84e88ad1f66a5a8993, type: 3}
+  - {fileID: 21300000, guid: 29196af7b0fd166489060e4c831b7070, type: 3}
+  - {fileID: 21300000, guid: b95633c7b162aa24aa28b627d5d37ed7, type: 3}
+  displayDuration: 2.5
+  fadeInDuration: 0
+  fadeOutDuration: 0
+  pauseDuration: 0

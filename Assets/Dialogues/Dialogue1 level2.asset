@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9f8b0a59f7a33b4f981f9d19ad45c4c, type: 3}
+  m_Name: Dialogue1 level2
+  m_EditorClassIdentifier: 
+  dialogues:
+  - speaker: 1
+    text: Oh, you're still trying?
+  - speaker: 1
+    text: I thought you'd returned by now
+  - speaker: 0
+    text: I'll do it
+  - speaker: 0
+    text: I'll show you that I too can shine
+  - speaker: 0
+    text: No matter how ridiculous your task is
+  - speaker: 1
+    text: You should stick to the shadows
+  - speaker: 1
+    text: We doves have the light covered

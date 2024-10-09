@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9f8b0a59f7a33b4f981f9d19ad45c4c, type: 3}
+  m_Name: Dialogue1 level3
+  m_EditorClassIdentifier: 
+  dialogues:
+  - speaker: 0
+    text: "I\u2019ve healed enough to take off!"
+  - speaker: 0
+    text: I can feel the wind again
+  - speaker: 0
+    text: Maybe I do belong up here with you!
+  - speaker: 1
+    text: "Sure, you\u2019re off the ground"
+  - speaker: 1
+    text: But it takes more than a few flaps to soar like a dove
